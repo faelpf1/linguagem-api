@@ -3,15 +3,13 @@
 Esse projeto é um desafio realizado durante a imersão java_ da Alura, onde foi implementada uma aplicação java com o framework Springboot.
 Testes do CRUD foram realizados com [Reqbin](https://reqbin.com/)
 
+Link de acesso: https://languages-prog.herokuapp.com/languages
+
 ## Tecnologia utilizada
 1. **Java 17**
 2. **Spring Boot 3.0.0(M4) com as denpedências: Spring Web, Spring Data MongoDB e Lombok** 
 3. **Mongo DB Atlas**
-
-## Observação
-Arquivo application.properties com as configurações de acesso ao MongoDB não se encontra nesse repositório e deverá ser adicionado.
-Local: src/resources
-Conteúdo: spring.data.mongodb.uri=mongodb+srv://usuario:senha@host/nomeDoBanco?retryWrites=true&w=majority
+4. **Heroku**
 
 ## Deafios a serem desenvolvidos
 
